@@ -1,0 +1,4 @@
+﻿  Connect4.cpp
+c:\users\ikodo\desktop\대학교\19-1\인공지능\connect4\connect4\connect4.cpp(499): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\ikodo\desktop\대학교\19-1\인공지능\connect4\connect4\connect4.cpp(531): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  Connect4.vcxproj -> C:\Users\ikodo\Desktop\대학교\19-1\인공지능\Connect4\Debug\Connect4.exe
